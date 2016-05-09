@@ -36,10 +36,8 @@
   $lang['UPGRADE'] = 'upgrade';
 
   /*
-------------------
-Ships
-------------------
-*/
+   * Ships
+   */
 
   $lang['FRIG'] = 'Frigate';
   $lang['DEST'] = 'Destroyer';
@@ -50,6 +48,20 @@ Ships
   $lang['DRNT'] = 'Dreadnought';
   $lang['SCARR'] = 'Carrier';
   $lang['TTAN'] = 'Titan';
+
+  $lang['FRIG_DESC'] = 'Frigate';
+  $lang['DEST_DESC'] = 'Destroyer';
+  $lang['CRS__DESC'] = 'Cruiser';
+  $lang['BCRS_DESC'] = 'Battlecruiser';
+  $lang['BATT_DESC'] = 'Battleships';
+  $lang['CARR__DESC'] = 'Carrier';
+  $lang['DRNT_DESC'] = 'Dreadnought';
+  $lang['SCARR_DESC'] = 'Carrier';
+  $lang['TTAN_DESC'] = 'Titan';
+
+  /*
+ * END Ships
+ */
 
   /*
   ------------------
