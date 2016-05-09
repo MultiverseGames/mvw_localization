@@ -442,7 +442,7 @@
   $lang['USER_POWER_PLAYER'] = 'Player Rating';
 
   $lang['COMPONENTS_USERINFO_TITLE'] = 'User Info';
-  $lang['COMPONENTS_USERINFO_PROTECTION'] = 'Protection Time:';
+  $lang['USERINFO_PROTECTION'] = 'Protection remaining:';
   $lang['COMPONENTS_USERINFO_NAME'] = 'Name';
   $lang['COMPONENTS_USERINFO_COMMANDER'] = 'Commander';
   $lang['COMPONENTS_USERINFO_COVERT_TOOLTIP'] = 'Each level doubles your covert power.';
