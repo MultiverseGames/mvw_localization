@@ -25,7 +25,12 @@
   $lang['GAME_JOIN'] = 'Join countless players from around the world and start your empire, today.';
   //$lang['GAME_SPIEL'] = 'Play as any of a number of races originating from throughout the Multiverse';
 
+  /*
+   * Generics
+   */
+
   $lang['TRADE'] = 'Trade';
+  $lang['SELL'] = 'Sell';
 
   $lang['COSTS'] = 'Costs';
   $lang['FOOD'] = 'food';
@@ -992,9 +997,7 @@
   // SHIPS
 
   $lang['SHIPS_MANAGE_TITLE'] = 'Manage Ships';
-  $lang['SHIPS_SELL'] = 'Sell';
-  $lang['SHIPS_SELL_METAL'] = ' Metal & ';
-  $lang['SHIPS_SELL_CREDITS'] = ' Credits';
+  $lang['SHIPS_SELL'] = 'Sell for';
   $lang['SHIPS_ZERO'] = 'You currently have zero fire power!';
   $lang['SHIPS_CURRENT'] = 'Current Inventory';
   $lang['SHIPS_STRONG'] = ' strong against ';
