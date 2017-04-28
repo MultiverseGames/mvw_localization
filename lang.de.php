@@ -232,30 +232,6 @@ $lang['OFFLINE_REFRESH1'] = 'Diese Seit wird die Spiel automatisch Prufen jede '
 $lang['OFFLINE_REFRESH2'] = ' Sekunden. Wenn wir sind zurück, Sie werden automatisch umgeleitet.';
 $lang['OFFLINE_CHECKING'] = 'Prufen nochmals in: ';
 
-
-// HELP PAGES
-$lang['HELP_TITLE'] = 'Spiel Anleitung';
-$lang['HELP_LAST_UPDATED'] = 'Letzte Aktualisierung - ';
-$lang['HELP_INSTRUCTIONS'] = 'Clicken Sie auf die Überschriften unten für Beschreibungen von die Funktionalitäten für jede Seite.';
-$lang['HELP_RULES'] = 'Regeln';
-$lang['HELP_ABOUT'] = 'Über das Spiel';
-$lang['HELP_OBJECTIVE'] = 'Objektive';
-$lang['HELP_TUTORIAL'] = 'Anleitung';
-$lang['HELP_BASE'] = 'Komandozentrale';
-$lang['HELP_UNIVERSE'] = 'Universum';
-$lang['HELP_POPULATION'] = 'Bevölkerung';
-$lang['HELP_WEAPONS'] = 'Schiffen';
-$lang['HELP_MISSION'] = 'Schiffen - Erforschung Mission';
-$lang['HELP_COVERT'] = 'Geheimdienstoperationen';
-$lang['HELP_RESEARCH'] = 'Vorschung';
-$lang['HELP_OFFICERS'] = 'Offizeren';
-$lang['HELP_LOGS'] = 'Logbuch';
-$lang['HELP_MV'] = 'MV Punkte';
-$lang['HELP_PREFERENCES'] = 'Einstellungen';
-$lang['HELP_JUST_THE_TIP'] = 'Tipps für Erfolg';
-$lang['HELP_MISC'] = 'Sonstiges / Anmeldung Themen';
-
-
 // ACCOUNT ACTIVATION PAGE
 
 //$lang['ACTIVATE_FB_USERNAME'] = 'Desired Username:';
@@ -419,8 +395,6 @@ $lang['COMPONENTS_USERINFO_PROTECTION'] = 'Schutz Zeit:';
 $lang['COMPONENTS_USERINFO_NAME'] = 'Name';
 $lang['COMPONENTS_USERINFO_COMMANDER'] = 'Kommandeur';
 //$lang['COMPONENTS_USERINFO_RACE'] = 'Rasse';
-$lang['COMPONENTS_USERINFO_SUPERPOWER_TOOLTIP'] = 'Jede Eben erhörert Einkommen bei 1% für Kredite, Nahrungsmittle, Mettal, and Forschung Produktion.';
-$lang['COMPONENTS_USERINFO_SUPERPOWER'] = 'Supermacht Eben';
 $lang['COMPONENTS_USERINFO_COVERT_TOOLTIP'] = 'Ihre Geheimmacht ist mit jede Eben verdopplet.';
 $lang['COMPONENTS_USERINFO_COVERT'] = 'Geheimmacht Eben';
 $lang['COMPONENTS_USERINFO_RESEARCH_TOOLTIP'] = 'Ihre Vorschung is mit jede Eben bei 20% erhöht.';
@@ -504,11 +478,9 @@ $lang['POP_GROWTH_TAB_UNTRAIN'] = 'Untrain Units';
 
 
 $lang['COMPONENTS_POP_SUM_TITLE'] = 'Bewölkerungswachstum Zusammenfassung';
-$lang['COMPONENTS_POP_SUM_SCIENTIST_TOOLTIP'] = 'Jedes Zug dieser Einheit wird Forschung produzierien';
-$lang['COMPONENTS_POP_SUM_SCIENTIST'] = 'Wissenschaftler';
 $lang['COMPONENTS_POP_SUM_MINERS_TOOLTIP'] = 'Jedes Zug dieser Einheit wird Metall produzierien';
 $lang['COMPONENTS_POP_SUM_MINERS'] = 'Bergarbeiter';
-$lang['COMPONENTS_POP_SUM_FARMERS_TOOLTIP1'] = 'Jedes Zug dieser Einheit wird Nahrungsmittle produzierien. Sie brauchen';
+$lang['COMPONENTS_POP_SUM_FARMERS_TOOLTIP1'] = 'Jedes Zug dieser Einheit wird Nahrungsmittle produzierien.';
 $lang['COMPONENTS_POP_SUM_FARMERS_TOOLTIP2'] = 'Bauern für die aktuelle Unterhalt zu behalten';
 $lang['COMPONENTS_POP_SUM_FARMERS'] = 'Bauern';
 $lang['COMPONENTS_POP_SUM_COVERT_TOOLTIP'] = 'Dieser Einheit is mit Iherer geheim Macht verbindet';
@@ -523,7 +495,6 @@ $lang['COMPONENTS_POP_TRAIN_TITLE'] = 'Verwalten Bevölkerung - Ausbildung';
 $lang['COMPONENTS_POP_TRAIN_PROFESSION'] = 'Beruf';
 $lang['COMPONENTS_POP_TRAIN_COST'] = 'Kosten';
 $lang['COMPONENTS_POP_TRAIN_QUANTITY'] = 'Menge';
-$lang['COMPONENTS_POP_TRAIN_SCIENTIST'] = 'Wissenschaftler';
 $lang['COMPONENTS_POP_TRAIN_MINERS'] = 'Bergarbeiter';
 $lang['COMPONENTS_POP_TRAIN_FARMERS'] = 'Bauern';
 $lang['COMPONENTS_POP_TRAIN_COVERT'] = 'Geheim Agenten';
@@ -1166,7 +1137,6 @@ $lang['BASE_ALERT_NOCHANGE'] = 'Your alert level is already set to that rating';
 $lang['BASE_ALERT_UPDATED'] = 'Your alert level has been updated';
 
 $lang['POPULATION_ALERT_NOBODY'] = 'You did not select anyone to untrain';
-$lang['POPULATION_ALERT_SCIENTISTS'] = 'You do not have that many Scientists';
 $lang['POPULATION_ALERT_MINERS'] = 'You do not have that many Miners';
 $lang['POPULATION_ALERT_FARMERS'] = 'You do not have that many Farmers';
 $lang['POPULATION_ALERT_COVERT'] = 'You do not have that many Covert Operatives';
@@ -1216,7 +1186,6 @@ $lang['RESEARCH_HULL_INCREASE'] = 'Increase the hull strength of your ';
 $lang['RESEARCH_SHIELD_INCREASE'] = 'Increase the shield strength of your ';
 $lang['RESEARCH_FARMING_INCREASE'] = 'Increases the food production of your farmers by ';
 $lang['RESEARCH_MINING_INCREASE'] = 'Increases the metal production of your miners by ';
-$lang['RESEARCH_SCIENCE_INCREASE'] = 'Increases the research output of your scientists by ';
 $lang['RESEARCH_SP_INCREASE'] = 'Each level increases your production of credits, food, metal, and research by ';
 $lang['RESEARCH_SP_INCREASE1'] = 'Some levels unlock new tiers of ships for you to purchase.';
 $lang['RESEARCH_COV_INCREASE'] = 'For each level you have above another player, provides an additional ';
@@ -1225,8 +1194,6 @@ $lang['RESEARCH_SHIPS'] = ' ships by ';
 $lang['FARMING_RESEARCH'] = 'Ackerbau Vorschung';
 $lang['MINING_RESEARCH'] = 'Bergbau Vorschung';
 $lang['RESEARCH_RESEARCH'] = 'Vorschung Vorschung';
-$lang['SUPERPOWER_RESEARCH'] = 'Superpower Level';
-$lang['COVERT_RESEARCH'] = 'Covert Level';
 
 $lang['PLAYER_PROTECTION_REMOVED'] = 'Your protection has been removed';
 $lang['PLAYER_PROTECTION_NO'] = 'You have no protection to be removed...';
@@ -1241,11 +1208,6 @@ $lang['RELATIONS_MV_NONE'] = 'You do not have any MV Punkte to give';
 $lang['RELATIONS_MV_ZERO'] = 'You did not select an amount';
 $lang['RELATIONS_MV_NOPE'] = 'You can not trade with yourself';
 $lang['RELATIONS_NOTHING'] = 'No user/action selected';
-
-$lang['TUTORIAL_NOTCOMPLETE'] = 'You still need to complete the task below';
-$lang['TUTORIAL_REWARDED'] = 'Reward Collected';
-$lang['TUTORIAL_COMPLETED'] = 'Your tutorial is already complete';
-$lang['TUTORIAL_NOACTIONSELECTED'] = 'No action selected';
 
 $lang['MISSION_WAIT'] = 'You are not able to go out on another mission yet';
 $lang['MISSION_NOSHIPS'] = 'Sie haben keine Schiffe für diese Mission zu senden';

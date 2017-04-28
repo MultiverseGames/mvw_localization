@@ -268,28 +268,6 @@
   $lang['OFFLINE_REFRESH2'] = ' seconds. You will be redirected when we\'re back.';
   $lang['OFFLINE_CHECKING'] = 'Checking again in: ';
 
-  // HELP PAGES
-  $lang['HELP_TITLE'] = 'Game Guide';
-  $lang['HELP_LAST_UPDATED'] = 'Last updated - ';
-  $lang['HELP_INSTRUCTIONS'] = 'Click on the headings below for a description of the functionality available on each page.';
-  $lang['HELP_RULES'] = 'Rules';
-  $lang['HELP_ABOUT'] = 'About The Game';
-  $lang['HELP_OBJECTIVE'] = 'Objective';
-  $lang['HELP_TUTORIAL'] = 'Tutorial';
-  $lang['HELP_BASE'] = 'Command Center';
-  $lang['HELP_UNIVERSE'] = 'Universe';
-  $lang['HELP_POPULATION'] = 'Population';
-  $lang['HELP_WEAPONS'] = 'Ships';
-  $lang['HELP_MISSION'] = 'Ships - Exploration Mission';
-  $lang['HELP_COVERT'] = 'Covert Operations';
-  $lang['HELP_RESEARCH'] = 'Research';
-  $lang['HELP_OFFICERS'] = 'Officers';
-  $lang['HELP_LOGS'] = 'Logs';
-  $lang['HELP_MV'] = 'MV Points';
-  $lang['HELP_PREFERENCES'] = 'Preferences';
-  $lang['HELP_JUST_THE_TIP'] = 'Tips for Success';
-  $lang['HELP_MISC'] = 'Misc / Registration Issues';
-
   // ACCOUNT ACTIVATION PAGE
 
   //$lang['ACTIVATE_FB_USERNAME'] = 'Desired Username:';
@@ -530,11 +508,9 @@
   $lang['POP_GROWTH_TAB_UNTRAIN'] = 'Untrain Units';
 
   $lang['COMPONENTS_POP_SUM_TITLE'] = 'Population Summary';
-  $lang['COMPONENTS_POP_SUM_SCIENTIST_TOOLTIP'] = 'This unit produces Research each turn';
-  $lang['COMPONENTS_POP_SUM_SCIENTIST'] = 'Scientists';
   $lang['COMPONENTS_POP_SUM_MINERS_TOOLTIP'] = 'This unit produces Metal each turn';
   $lang['COMPONENTS_POP_SUM_MINERS'] = 'Miners';
-  $lang['COMPONENTS_POP_SUM_FARMERS_TOOLTIP1'] = 'This unit produces Food each turn. You require';
+  $lang['COMPONENTS_POP_SUM_FARMERS_TOOLTIP1'] = 'This unit produces Food each turn.';
   $lang['COMPONENTS_POP_SUM_FARMERS_TOOLTIP2'] = 'Farmers to maintain the current upkeep';
   $lang['COMPONENTS_POP_SUM_FARMERS'] = 'Farmers';
   $lang['COMPONENTS_POP_SUM_COVERT_TOOLTIP'] = 'This unit relates to your Covert Power';
@@ -549,7 +525,6 @@
   $lang['COMPONENTS_POP_TRAIN_PROFESSION'] = 'Profession';
   $lang['COMPONENTS_POP_TRAIN_COST'] = 'Cost';
   $lang['COMPONENTS_POP_TRAIN_QUANTITY'] = 'Quantity';
-  $lang['COMPONENTS_POP_TRAIN_SCIENTIST'] = 'Scientist';
   $lang['COMPONENTS_POP_TRAIN_MINERS'] = 'Miner';
   $lang['COMPONENTS_POP_TRAIN_FARMERS'] = 'Farmer';
   $lang['COMPONENTS_POP_TRAIN_COVERT'] = 'Covert Operative';
@@ -1187,7 +1162,6 @@
   $lang['BASE_ALERT_UPDATED'] = 'Your alert level has been updated';
 
   $lang['POPULATION_ALERT_NOBODY'] = 'You did not select anyone to untrain';
-  $lang['POPULATION_ALERT_SCIENTISTS'] = 'You do not have that many Scientists';
   $lang['POPULATION_ALERT_MINERS'] = 'You do not have that many Miners';
   $lang['POPULATION_ALERT_FARMERS'] = 'You do not have that many Farmers';
   $lang['POPULATION_ALERT_COVERT'] = 'You do not have that many Covert Operatives';
@@ -1247,7 +1221,6 @@
   $lang['RESEARCHFARMING'] = 'Farming';
   $lang['RESEARCHMINING'] = 'Mining';
   $lang['RESEARCHLEVEL'] = 'Research Facilities';
-  $lang['COVERTLEVEL'] = 'Deep Space Scanners';
 
   $lang['RESEARCHATTACK1_DESC'] = 'Increase the strength of your beam weapons.';
   $lang['RESEARCHATTACK2_DESC'] = 'Increase the strength of your kinetic weapons.';
@@ -1263,9 +1236,6 @@
 
   $lang['RESEARCHFARMING_DESC'] = 'Increases the food production of your farmers.';
   $lang['RESEARCHMINING_DESC'] = 'Increases the metal production of your miners.';
-
-  $lang['RESEARCHLEVEL_DESC'] = 'Increase the research output of your scientists.';
-  $lang['COVERTLEVEL_DESC'] = 'Upgrade your scanners.';
 
   $lang['RESEARCH_ITEM_UPGRADED'] = 'Research item upgraded';
   $lang['RESEARCH_NOT_ENOUGH'] = 'Not Enough Resources!';
@@ -1288,11 +1258,6 @@
   $lang['RELATIONS_MV_ZERO'] = 'You did not select an amount';
   $lang['RELATIONS_MV_NOPE'] = 'You can not trade with yourself';
   $lang['RELATIONS_NOTHING'] = 'No user/action selected';
-
-  $lang['TUTORIAL_NOTCOMPLETE'] = 'You still need to complete the task below';
-  $lang['TUTORIAL_REWARDED'] = 'Reward Collected';
-  $lang['TUTORIAL_COMPLETED'] = 'Your tutorial is already complete';
-  $lang['TUTORIAL_NOACTIONSELECTED'] = 'No action selected';
 
   $lang['MISSION_WAIT'] = 'You are not able to go out on another mission yet';
   $lang['MISSION_NOSHIPS'] = 'You do not have any ships to send on this mission';
