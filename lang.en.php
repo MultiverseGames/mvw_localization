@@ -232,7 +232,7 @@
   $lang['TOS_CHEATS'] = 'Cheaters will be banned, suspended, or get their account modified at any time once caught  without warning. Rules are located in the ';
   $lang['TOS_CHANGES'] = 'Although most changes are likely to be minor, MultiVerse Games Ltd may change its Privacy Policy from time to time, and in MultiVerse Games Ltd discretion. MultiVerse Games Ltd encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.';
   $lang['TOS_INFORMATION'] = 'Any information collected while you play will not be shared with outside sources, however may be used for other MultiVerse Games Ltd games.';
-  $lang['TOS_PERSONAL'] = 'We gather certain personal information from all registering members. This includes e-mail address and Facebook ID (if linked). We also store your personal preferences related to this website in your account data.';
+  $lang['TOS_PERSONAL'] = 'We gather certain personal information from all registering members. This includes e-mailbox address and Facebook ID (if linked). We also store your personal preferences related to this website in your account data.';
   $lang['TOS_NETWORK'] = 'We may also collect data relating to all network connections, primarily your IP address. We use this information to track fraudulent user activity (including but not limited to: the use of multiple accounts, account sharing.) Your browser type and version are also detected.';
   $lang['TOS_DO_NOT_BE_STUPID'] = 'Please keep in mind that if you disclose personal information through our messaging system, forums, or chat rooms - this information could be collected and used by other parties. Our team will do our best to remove personal data, however we can not control what you have posted. You agree that you post such information under your own free will.';
   $lang['TOS_INTERUPT'] = 'MultiVerse Games Ltd is entitled to interrupt the operation of the game without prior notice if there are urgent technical reasons or because of critical / necessary maintenance. In all other cases reasonable advance notice will be provided using suitable means.';
@@ -293,7 +293,7 @@
   $lang['REGISTER_EMAIL_VALID'] = 'The email you have entered is not valid, please try again';
   $lang['REGISTER_EMAIL_ILLEGAL'] = 'The email you have entered has invalid characters, please try again';
   $lang['REGISTER_EMAIL_DUPE'] = 'Emails you have entered are not equal.';
-  $lang['REGISTER_EMAIL_TAKEN'] = 'That e-mail has already been taken.';
+  $lang['REGISTER_EMAIL_TAKEN'] = 'That e-mailbox has already been taken.';
 
   $lang['REGISTER_EMAIL_WELCOME'] = 'Welcome to Multiverse Warriors!';
   $lang['REGISTER_EMAIL_LINK'] = 'Please follow the link below to active your account:';
@@ -323,7 +323,7 @@
 
   $lang['REGISTER_ALREADY'] = 'Already have an Account?';
 
-  $lang['REGISTER_SUCCESS1'] = 'Your activation password was sent to your e-mail.';
+  $lang['REGISTER_SUCCESS1'] = 'Your activation password was sent to your e-mailbox.';
   $lang['REGISTER_SUCCESS2'] = 'Be sure to check your \'spam\' folder as sometimes registration emails get trapped here.';
   $lang['REGISTER_SUCCESS3'] = 'You will be able to place your personal attributes/skills on first login.';
   $lang['REGISTER_SUCCESS4'] = 'Thank you and have fun!';
@@ -1069,11 +1069,11 @@
 
   $lang['ACC_EM_TITLE'] = 'Email Change';
   $lang['ACC_EM_VALID'] = 'MAKE SURE YOU SPECIFY A VALID E-MAIL ADDRESS.';
-  $lang['ACC_EM_UNABLE'] = 'If this e-mail does not go through, you will be UNABLE to access your account';
+  $lang['ACC_EM_UNABLE'] = 'If this e-mailbox does not go through, you will be UNABLE to access your account';
   $lang['ACC_EM_SPAM'] = 'Ensure to also check your spam or blocked folder in case it gets trapped as spam...';
   $lang['ACC_EM_CONFIRMATION'] = 'Are you sure you want to change your email?';
   $lang['ACC_EM_CURRENT'] = 'Current Email: ';
-  $lang['ACC_EM_ENTER'] = 'Enter E-mail';
+  $lang['ACC_EM_ENTER'] = 'Enter E-mailbox';
   $lang['ACC_EM_CONFIRM'] = 'Confirm E-Mail';
 
   $lang['ACC_PW_TITLE'] = 'Password Change';
@@ -1108,7 +1108,7 @@
   $lang['ACCOUNT_EMAIL_INVALID1'] = 'The email you have entered is not valid, please try again';
   $lang['ACCOUNT_EMAIL_INVALID2'] = 'The email you have entered has invalid characters, please try again';
   $lang['ACCOUNT_EMAIL_DUPE'] = 'Emails you have entered are not equal.';
-  $lang['ACCOUNT_EMAIL_EXISTS'] = 'That e-mail has already been taken.';
+  $lang['ACCOUNT_EMAIL_EXISTS'] = 'That e-mailbox has already been taken.';
   $lang['ACCOUNT_EMAIL_SUCCESS'] = 'Your email has been successfully changed.';
 
   $lang['ACCOUNT_PASSWORD_SUCCESS'] = 'A new password has been sent to your new email address';
@@ -1152,7 +1152,7 @@
   //$lang['ACTIVATE_ILLEGAL'] = 'That is an illegal race';
   $lang['ACTIVATE_BAD'] = 'You have entered bad characters in your password, please use only letters or numbers.';
 
-  $lang['ACTIVATE_WELCOME_SUBJECT'] = 'Welcome and Thanks for Joining!<br><br>';
+  $lang['ACTIVATE_WELCOME_SUBJECT'] = 'Welcome and Thanks for Joining!';
   $lang['ACTIVATE_WELCOME_MSG'] = 'Welcome to MultiVerse Warriors!<br><br>';
   $lang['ACTIVATE_WELCOME_MSG'] .= 'We trust you will find the game fun, challenging, and social!';
   $lang['ACTIVATE_WELCOME_MSG'] .= 'This is a game of realm management and conquest. Your realm is what produces your income, grows your population, and dictates your skills in your various abilities such as income, offence, defence, and covert.<br><br>The game can be played well with as little as a few minutes a day, with more time played increasing the efficiency of your growth.  And of course more time allowing for more directed attacks on others... <br><br>Turns are given out every 30 minutes, and are saved within your realm as action turns, usable any time.  Income, turns, and population growth are all automatic and based on your realm qualities. <br><br>There is much to learn, but starting is easy. <br><br> First things first, you should change your user name. To do this, click into Account Management from the bottom of the page and here you will see user name changes. Change the name to whatever you wish. <br><br> If you do not figure things out on your own, be sure to complete the Tutorial, check the forums, Message Boards, the Player Guide link at the bottom, and you will find other players are also helpful if you ask nicely... <br><br>You now have a small population.  So -- you will want to spend your initial income at least in part in growing your population, and be sure never to forget to upgrade your population production fairly often.<br><br>Each turn that passes (in real-time) brings you population and income from your population. <br><br>Do not underestimate the power of personal agreements with others, other groups, or alliances.  A strong backing from a community can go far to ensuring your safety, or military victories! As well as being a source of knowledge and entertainment... <br><br>Hopefully this is more than enough to get you going, while you discover the secrets of the universe, and grow in power! <br><br>As a last note: There are many different strategies to become the biggest and strongest in the game.  Which ever way you want to go about to obtain this make sure you look at the upgrade costs and make sure they are the best move for you at that time in the game, another upgrade might be better than one for where you are at.  And remember that your overall power will be determined by the decisions you made a month or year ago as well as today\'s, as power in no way comes instantly.  Do you think you are good enough to protect or dominate the entire Universe?';
@@ -1312,17 +1312,17 @@
   $lang['MB_ERROR_SELECTED'] = 'Nothing Selected?';
   $lang['MB_ERROR_FAIL'] = 'Error, no such user exists.';
   $lang['MB_ERROR_NOTHING'] = 'You did not type anything!';
-  $lang['MB_ERROR_YOURSELF'] = 'You can not send mail to yourself.';
+  $lang['MB_ERROR_YOURSELF'] = 'You can not send mailbox to yourself.';
   $lang['MB_ERROR_SENT'] = 'Mail sent to ';
-  $lang['MB_ERROR_DELETE_NO'] = 'Error, no such mail to delete.';
-  $lang['MB_ERROR_DELETE_NOPE'] = 'No such mail to delete.';
+  $lang['MB_ERROR_DELETE_NO'] = 'Error, no such mailbox to delete.';
+  $lang['MB_ERROR_DELETE_NOPE'] = 'No such mailbox to delete.';
   $lang['MB_ERROR_DELETED'] = 'Mail Deleted!';
-  $lang['MB_ERROR_SAVE_NO'] = 'Error, no such mail to save.';
-  $lang['MB_ERROR_SAVE_NOPE'] = 'No such mail to save.';
+  $lang['MB_ERROR_SAVE_NO'] = 'Error, no such mailbox to save.';
+  $lang['MB_ERROR_SAVE_NOPE'] = 'No such mailbox to save.';
   $lang['MB_ERROR_SAVED'] = 'Mail Saved!';
   $lang['MB_ERROR_DELETED_ALL'] = 'All Inbox Mail Deleted!';
   $lang['MB_ERROR_DELETED_OUTBOX'] = 'All Outbox Mail Deleted!';
-  $lang['MB_ERROR_NO_SUCH'] = 'Error, no such mail exists.';
+  $lang['MB_ERROR_NO_SUCH'] = 'Error, no such mailbox exists.';
 
   // SETTINGS
 

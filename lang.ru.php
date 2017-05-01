@@ -42,7 +42,7 @@ $lang['INDEX_BETA_FACEBOOK'] = 'Вход facebook ИНВАЛИДОВ ПО DEV';
 $lang['INDEX_BETA_REGISTER'] = 'РЕГИСТРАЦИЯ инвалидов на DEV';
 
 $lang['INDEX_LOGIN_LOGIN'] = 'Войти';
-$lang['INDEX_LOGIN_EMAIL'] = 'E-mail';
+$lang['INDEX_LOGIN_EMAIL'] = 'E-mailbox';
 $lang['INDEX_LOGIN_EMAIL_PLACEHOLDER'] = 'Адрес Электронной Почты';
 $lang['INDEX_LOGIN_PASSWORD'] = 'пароль';
 $lang['INDEX_LOGIN_PASSWORD_PLACEHOLDER'] = 'пароль';
