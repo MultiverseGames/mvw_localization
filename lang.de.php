@@ -14,7 +14,7 @@ Language: German
 - 3. Do not change the names of keys
 - 4. Do not change the lines or sort
 - 5. Do not duplicate lines
-- 6. If you see spaces at the end or beginning, these are intentional e.g. ```' from your account. '```
+- 6. If you see spaces at the end or beginning, these are intentional e.g. ```' from your settings. '```
 - 7. If you need to put in a ' in a word put a \ before it, not doing this breaks the code, as the ' symbol is to close the translation. Putting in a \ prevents this from closing.
 - 8. If you see some HTML code e.g. <strong> please do not alter, but feel free to move around if the sentence does not make sense. Note that some strings are the middle of sentences. 
 - 9. If adding a new langugue change the name to "lang.<languague>.php" and upload it back. 
@@ -41,7 +41,7 @@ $lang['INDEX_LAST_TWO_HOURS'] = 'Letzte zwei Stunden:';
 $lang['INDEX_PLAYERS_TOTAL'] = 'Gesamte Spieleranzahl:';
 
 $lang['INDEX_BETA'] = 'Hier ist unser Entwicklungsserver';
-$lang['INDEX_BETA_TEXT'] = 'This is not the live Spiel. It is regularly reset and your actions will not have a lasting impact your account.';
+$lang['INDEX_BETA_TEXT'] = 'This is not the live Spiel. It is regularly reset and your actions will not have a lasting impact your settings.';
 $lang['INDEX_BETA_FACEBOOK'] = 'FACEBOOK LOGIN DISABLED ON DEV';
 $lang['INDEX_BETA_REGISTER'] = 'REGISTRATION DISABLED ON DEV';
 
@@ -195,14 +195,14 @@ $lang['TOS_WARRANTY'] = 'MultiVerse Warriors comes with <strong>ABSOLUTELY NO WA
 $lang['TOS_CHEATS'] = 'Wann erwischt Betrüger wird verbannt oder suspendiert. Es ist auch möglich das mit ohne Warnung die Konto wird modifiziert. Reglen sind in die ';
 $lang['TOS_CHANGES'] = 'Obwohl viel Änderungen in die atenschutzerklärung sind normalerweise klein, MultiVerse Games Ltd konnte die Datenschutzerklärung gelegentlich ändern, and in MultiVerse Games Ltd discretion. MultiVerse Games Ltd anfeuern Besucher zu prufen diese Seite für Änderungen in die Datenschutzerklärung. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.';
 $lang['TOS_INFORMATION'] = 'Any information collected while you play will not be shared with outside sources, however may be used for other MultiVerse Games Ltd Spiels.';
-$lang['TOS_PERSONAL'] = 'We gather certain personal information from all registering members. This includes e-mailbox address and Facebook ID (if linked). We also store your personal preferences related to this website in your account data.';
-$lang['TOS_NETWORK'] = 'We may also collect data relating to all network connections, primarily your IP address. We use this information to track fraudulent user activity (including but not limited to: the use of multiple accounts, account sharing.) Your browser type and version are also detected.';
+$lang['TOS_PERSONAL'] = 'We gather certain personal information from all registering members. This includes e-mailbox address and Facebook ID (if linked). We also store your personal preferences related to this website in your settings data.';
+$lang['TOS_NETWORK'] = 'We may also collect data relating to all network connections, primarily your IP address. We use this information to track fraudulent user activity (including but not limited to: the use of multiple accounts, settings sharing.) Your browser type and version are also detected.';
 $lang['TOS_DO_NOT_BE_STUPID'] = 'Please keep in mind that if you disclose personal information through our messaging system, forums, or chat rooms - this information could be collected and used by other parties. Our team will do our best to remove personal data, however we can not control what you have posted. You agree that you post such information under your own free will.';
 $lang['TOS_INTERUPT'] = 'MultiVerse Spiels Ltd is entitled to interrupt the operation of the Spiel without prior notice if there are urgent technical reasons or because of critical / necessary maintenance. In all other cases reasonable advance notice will be provided using suitable means.';
 $lang['TOS_OUTAGES'] = 'Outages to the Spiel while rare, can occur. In the unlikely event of such an event, the Spiel Administration will not be held responsible for any in-Spiel losses that a player will incur. If it is deemed necessary the Spiel may provide all players with protection for a short period, this will be the exception and not the rule';
 $lang['TOS_DONATIONS'] = 'Donations are non refundable after a reasonable amount of time has passed (48 hours). In the unlikely event that a problem should arise from a donation, you can only be provided with MV Punkte or in-Spiel resources as compensation.';
 $lang['TOS_COOKIES'] = 'Use of Cookies';
-$lang['TOS_COOKIES_TEXT'] = 'A cookie is a string of information that a website stores on a visitor\'s computer, and that the visitor\'s browser provides to the website each time the visitor returns. MultiVerse Spiels Ltd uses cookies to help multiversewarriors.com identify and track visitors, their usage of multiversewarriors.com website, and their website access preferences. MultiVerse Spiels Ltd and third-party vendors, including Google, Facebook, use first-party cookies (such as the Google Analytics cookies) together to report how your usage, and interactions are related to visits to our sites. MultiVerse Spiels Ltd visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using MultiVerse Spiels Ltd sites, with the drawback that certain features of MultiVerse Spiels Ltd sites may not function properly without the aid of cookies. In particular logging into your account and translation services will not function.';
+$lang['TOS_COOKIES_TEXT'] = 'A cookie is a string of information that a website stores on a visitor\'s computer, and that the visitor\'s browser provides to the website each time the visitor returns. MultiVerse Spiels Ltd uses cookies to help multiversewarriors.com identify and track visitors, their usage of multiversewarriors.com website, and their website access preferences. MultiVerse Spiels Ltd and third-party vendors, including Google, Facebook, use first-party cookies (such as the Google Analytics cookies) together to report how your usage, and interactions are related to visits to our sites. MultiVerse Spiels Ltd visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using MultiVerse Spiels Ltd sites, with the drawback that certain features of MultiVerse Spiels Ltd sites may not function properly without the aid of cookies. In particular logging into your settings and translation services will not function.';
 
 // TEAM
 
@@ -243,7 +243,7 @@ $lang['ACTIVATE_P_CONFIRM_PASS'] = 'Bitte Ihere Kennwort errinern. Falls Sie Ihr
 //$lang['ACTIVATE_P_GTR'] = 'Spiel Theme) - Rasse';
 //$lang['ACTIVATE_P_GTR_OPT'] = '(Theme: ';
 $lang['ACTIVATE_P_START'] = 'Bestätigen und Spielen';
-//$lang['ACTIVATE_P_BP'] = 'When you pick your Race, you are only picking the names for your account. Your choice has no influence on your account skills within the Spiel. After you login you will be able to choose what areas you want your	bonus to be in.';
+//$lang['ACTIVATE_P_BP'] = 'When you pick your Race, you are only picking the names for your settings. Your choice has no influence on your settings skills within the Spiel. After you login you will be able to choose what areas you want your	bonus to be in.';
 
 // REGISTRATION PAGE
 
@@ -277,8 +277,8 @@ $lang['REGISTER_EMAIL_CONFIRM_PLACE'] = 'Email Address bestätigen';
 $lang['REGISTER_BUTTON'] = 'Anmelden';
 
 $lang['REGISTER_WARNING1'] = 'Wichtige Hinweis: ';
-$lang['REGISTER_WARNING2'] = 'In the interest of fairness, there is a limit of one account per player. Players caught with multiple accounts will be removed from the Spiel.';
-//$lang['REGISTER_WARNING3'] = 'Having someone else create an account just to feed your account is also against the rules!';
+$lang['REGISTER_WARNING2'] = 'In the interest of fairness, there is a limit of one settings per player. Players caught with multiple accounts will be removed from the Spiel.';
+//$lang['REGISTER_WARNING3'] = 'Having someone else create an settings just to feed your settings is also against the rules!';
 //$lang['REGISTER_WARNING4'] = 'If you have a family relative, co-worker, friend or otherwise that wishes to play from the same IP/location as yourself, you must seek authorisation from the administration. Failure to do so will result in <strong>ALL</strong> these accounts being banned!';
 
 $lang['REGISTER_AGREE1'] = 'Wann Sie haben für diese Spiel angemeldet, Sie haben zugestimmt an unsere';
@@ -1160,10 +1160,10 @@ $lang['OFFICERS_ALERT_CHANGED'] = 'Rate Changed';
 
 $lang['FACEBOOK_LOGIN_ERROR'] = 'Facebook was unable to connect';
 $lang['FACEBOOK_LOGIN_INVALID'] = 'Your Facebook ID does not exist';
-$lang['FACEBOOK_LOGIN_VERIFY'] = 'Your Facebook account must first be verified';
-$lang['FACEBOOK_LOGIN_WHOOPS1'] = 'Your account already has a Facebook account attached to it';
-$lang['FACEBOOK_LOGIN_WHOOPS2'] = 'Your Facebook account has already been linked to another account ';
-$lang['FACEBOOK_LOGIN_SUCCESS'] = 'Your Facebook account has been linked';
+$lang['FACEBOOK_LOGIN_VERIFY'] = 'Your Facebook settings must first be verified';
+$lang['FACEBOOK_LOGIN_WHOOPS1'] = 'Your settings already has a Facebook settings attached to it';
+$lang['FACEBOOK_LOGIN_WHOOPS2'] = 'Your Facebook settings has already been linked to another settings ';
+$lang['FACEBOOK_LOGIN_SUCCESS'] = 'Your Facebook settings has been linked';
 
 
 $lang['ATTACK_ALERT_NOBODY'] = 'You did not select anyone to attack';
