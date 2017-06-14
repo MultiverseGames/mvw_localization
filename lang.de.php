@@ -47,9 +47,19 @@ $lang['INDEX_BETA_REGISTER'] = 'REGISTRATION DISABLED ON DEV';
 
 $lang['INDEX_WHAT'] = 'Was ist';
 $lang['INDEX_MVW'] = 'MULTIVERSE WARRIORS';
-$lang['INDEX_MVW_GRAB1'] = 'Multiverse Warriors ist ein Massen-Mehrspieler-Oline-Rollenspiel für Browsers. Die Umfeld ist 700 Jahre nach die Kollaps von der Multiverse. Du bist ein von der grosse Führer da war duch die Multiverse verstreut, und war im kryogenische Schlaff geschikt against your will. Seit die letzte mal Sie wach war, die politische Landschaft hat geändert. Jetz du versucht zu umbauen, und Ihre Ruf durch die bekannte Systeme wachsen  ';
-$lang['INDEX_MVW_GRAB2'] = 'Entwicklung mit ein Basis im Vorschung gibt Ihnen ein eigene Epharung an Ihre Ansteig zu Mact.';
-$lang['INDEX_MVW_GRAB3'] = 'Sie fangt an im en Welt das is unentwickelt! Von hier mussen Sie Ihre Versuch eine mächtig Reich zu bauen. Ihre Welt muss die möglichkeit gegen Fienden verteidigen, oder potenziell Fienden abschrecken. Forge alliances creating valuable and potentially powerful friendships, produce fleets, and engage into epic battles!';
+
+
+const LANG_MVW_GRAB = 'Multiverse Warriors ist ein Massen-Mehrspieler-Oline-Rollenspiel für Browsers. 
+Die Umfeld ist 700 Jahre nach die Kollaps von der Multiverse. 
+Du bist ein von der grosse Führer da war duch die Multiverse verstreut, und war im kryogenische Schlaff geschikt against your will. 
+Seit die letzte mal Sie wach war, die politische Landschaft hat geändert. 
+Jetz du versucht zu umbauen, und Ihre Ruf durch die bekannte Systeme wachsen 
+%s Entwicklung mit ein Basis im Vorschung gibt Ihnen ein eigene Epharung an Ihre Ansteig zu Mact.';
+
+const LANG_MVW_GRAB2 = 'Sie fangt an im en Welt das is unentwickelt! 
+Von hier mussen Sie Ihre Versuch eine mächtig Reich zu bauen. 
+Ihre Welt muss die möglichkeit gegen Fienden verteidigen, oder potenziell Fienden abschrecken. 
+Forge alliances creating valuable and potentially powerful friendships, produce fleets, and engage into epic battles!';
 
 
 $lang['INDEX_LOGIN_LOGIN'] = 'Login';
@@ -1277,31 +1287,31 @@ $lang['MB_ERROR_NO_SUCH'] = 'Fehler, kein Nachricht existiert.';
 
 // SETTINGS
 
-$lang['PHRASE_0'] = 'To the victor go the spoils.';
-$lang['PHRASE_1'] = 'Know thyself first, then know thine enemy.';
-$lang['PHRASE_2'] = 'Quitters never win. Winners never quit.  That is until someone buries them.';
-$lang['PHRASE_3'] = 'Was this a good war? What is a good war?';
-$lang['PHRASE_4'] = 'Whenever death may surprise us, let it be welcome if our battle cry has reached even one receptive ear and another hand reaches out to take up our arms.';
-$lang['PHRASE_5'] = 'Come your masters of war; come your big guns...but will ever you, who send commands, be the one who is undone?';
-$lang['PHRASE_6'] = 'Insanity is a tacticians nightmare.';
-$lang['PHRASE_7'] = 'Those who run away, can fight again another day.';
-$lang['PHRASE_8'] = 'A box has infinitely more sides than a circle.';
-$lang['PHRASE_9'] = 'They were stuck thinking in 2 dimensions...';
-$lang['PHRASE_10'] = 'As a man sow, shall he reap. and I know that talk is cheap. But the heat of the battle is as sweet as the victory.';
-$lang['PHRASE_11'] = 'Looks like I overestimated the number of your brain cells.';
-$lang['PHRASE_12'] = 'Sometimes I need what only you can provide: your absence.';
-$lang['PHRASE_13'] = 'It\'s a catastrophic success.';
-$lang['PHRASE_14'] = 'It\'s always darkest before it turns absolutely pitch black.';
-$lang['PHRASE_15'] = 'History teaches us that men and nations behave wisely once they have exhausted all other alternatives.';
-$lang['PHRASE_16'] = 'He who has no enemies, is intensely disliked by his friends';
-$lang['PHRASE_17'] = 'I think scars are like battle wounds - beautiful, in a way. They show what you\'ve been through and how strong you are for coming out of it.';
-$lang['PHRASE_18'] = 'Oh, what tangled webs we weave, when first we practice to weave webs';
-$lang['PHRASE_19'] = 'Sometimes by losing a battle you find a new way to win the war.';
-$lang['PHRASE_20'] = 'In every battle there comes a time when both sides consider themselves beaten, then he who continues the attack wins.';
-$lang['PHRASE_21'] = 'Battle is the most magnificent competition in which a being can indulge. It brings out all that is best; it removes all that is base. All are afraid in battle. The coward is the one who lets his fear overcome his sense of duty. Duty is the essence of manhood.';
-$lang['PHRASE_22'] = 'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a Spiel or a battle; the win comes from basic blocking and tackling.';
-$lang['PHRASE_23'] = 'The general who wins the battle makes many calculations in his temple before the battle is fought. The general who loses makes but few calculations beforehand.';
-$lang['PHRASE_24'] = 'You may have to fight a battle more than once to win it.';
+const LANG_BATTLE_PHRASE_0 = 'To the victor go the spoils.';
+const LANG_BATTLE_PHRASE_1 = 'Know thyself first, then know thine enemy.';
+const LANG_BATTLE_PHRASE_2 = 'Quitters never win. Winners never quit.  That is until someone buries them.';
+const LANG_BATTLE_PHRASE_3 = 'Was this a good war? What is a good war?';
+const LANG_BATTLE_PHRASE_4 = 'Whenever death may surprise us, let it be welcome if our battle cry has reached even one receptive ear and another hand reaches out to take up our arms.';
+const LANG_BATTLE_PHRASE_5 = 'Come your masters of war; come your big guns...but will ever you, who send commands, be the one who is undone?';
+const LANG_BATTLE_PHRASE_6 = 'Insanity is a tacticians nightmare.';
+const LANG_BATTLE_PHRASE_7 = 'Those who run away, can fight again another day.';
+const LANG_BATTLE_PHRASE_8 = 'A box has infinitely more sides than a circle.';
+const LANG_BATTLE_PHRASE_9 = 'They were stuck thinking in 2 dimensions...';
+const LANG_BATTLE_PHRASE_10  = 'As a man sow, shall he reap. and I know that talk is cheap. But the heat of the battle is as sweet as the victory.';
+const LANG_BATTLE_PHRASE_11  = 'Looks like I overestimated the number of your brain cells.';
+const LANG_BATTLE_PHRASE_12  = 'Sometimes I need what only you can provide: your absence.';
+const LANG_BATTLE_PHRASE_13  = 'It\'s a catastrophic success.';
+const LANG_BATTLE_PHRASE_14  = 'It\'s always darkest before it turns absolutely pitch black.';
+const LANG_BATTLE_PHRASE_15  = 'History teaches us that men and nations behave wisely once they have exhausted all other alternatives.';
+const LANG_BATTLE_PHRASE_16  = 'He who has no enemies, is intensely disliked by his friends';
+const LANG_BATTLE_PHRASE_17  = 'I think scars are like battle wounds - beautiful, in a way. They show what you\'ve been through and how strong you are for coming out of it.';
+const LANG_BATTLE_PHRASE_18  = 'Oh, what tangled webs we weave, when first we practice to weave webs';
+const LANG_BATTLE_PHRASE_19  = 'Sometimes by losing a battle you find a new way to win the war.';
+const LANG_BATTLE_PHRASE_20  = 'In every battle there comes a time when both sides consider themselves beaten, then he who continues the attack wins.';
+const LANG_BATTLE_PHRASE_21  = 'Battle is the most magnificent competition in which a being can indulge. It brings out all that is best; it removes all that is base. All are afraid in battle. The coward is the one who lets his fear overcome his sense of duty. Duty is the essence of manhood.';
+const LANG_BATTLE_PHRASE_22  = 'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a Spiel or a battle; the win comes from basic blocking and tackling.';
+const LANG_BATTLE_PHRASE_23  = 'The general who wins the battle makes many calculations in his temple before the battle is fought. The general who loses makes but few calculations beforehand.';
+const LANG_BATTLE_PHRASE_24  = 'You may have to fight a battle more than once to win it.';
 
 //Alliance
 $lang['ALLIANCE_APPLICATION_WITHDRAWN'] = 'has withdrawn their alliance application';
