@@ -452,7 +452,34 @@ $lang['COMPONENTS_USERINFO_PG_TOOLTIP2'] = 'Officer Bonus:';
 $lang['COMPONENTS_USERINFO_PG_TOOLTIP3'] = 'Mobilization Penalty:';
 $lang['COMPONENTS_USERINFO_PG'] = 'Population Growth';
 $lang['COMPONENTS_USERINFO_PG_DAY'] = ' / day';
-$lang['COMPONENTS_USERINFO_FLEET_POWER'] = 'The total firepower of your fleet. Having more fleet power than your rivals is a key factor in winning battles.';
+
+const LANG_FLEET_POWER = 'fleet power';
+const LANG_FLEET_POWER_LONG = 'The total firepower of your fleet. Having more fleet power than your rivals is a key factor in winning battles.';
+
+const LANG_SEQUENCE_COST = "base cost";
+const LANG_SEQUENCE_COST_LONG = "The cost of ships developed with this technology at a size of 1.";
+
+const LANG_BLUEPRINT_COST = "cost";
+
+const LANG_ZERO_BLUEPRINTS = "You do not have any blueprints.";
+
+const LANG_BLUEPRINT_NAME = "blueprint name";
+
+const LANG_BLUEPRINT_UPDATE = "update preview";
+
+const LANG_SEQUENCES = "technology";
+const LANG_SEQUENCES_LONG = "technology";
+
+const LANG_SEQUENCE_DISCARD = "Destroy this technology.";
+const LANG_NEW_BLUEPRINT = "Create a blueprint from this technology";
+const LANG_SEQUENCE_RESEARCH = "Research improvements to this technology";
+
+const LANG_SHIPS_STATS = "stats";
+const LANG_SHIPS_COSTS = "cost";
+const LANG_SHIPS_QUANTITY = "quantity";
+const LANG_SHIPS_NAME = "name";
+const LANG_SHIPS_MODS = "modifiers";
+
 $lang['COMPONENTS_USERINFO_MOBILIZED_TOOLTIP1'] = 'Your mobilization level rises when you are successfully attacked.';
 $lang['COMPONENTS_USERINFO_MOBILIZED_TOOLTIP2'] = ' For every ';
 $lang['COMPONENTS_USERINFO_MOBILIZED_TOOLTIP3'] = ' of mobilization, your income and population growth will be reduced by 1%.</p><p>Mobilization makes you a less profitable target and will reduce automatically over time.';
@@ -510,7 +537,6 @@ $lang['SHIPS_EXPLORATION_LAUNCH'] = 'Launch Exploration Mission';
 $lang['SHIPS_CURRENT_FLEET'] = 'Current Fleet';
 $lang['SHIPS_TIER'] = 'Tier';
 $lang['SHIPS_CLASS'] = 'Class';
-$lang['SHIPS_QUANTITY'] = 'Quantity';
 $lang['SHIPS_NONE'] = 'No Ships';
 
 // POPULATION

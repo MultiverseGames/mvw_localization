@@ -414,7 +414,10 @@ $lang['COMPONENTS_USERINFO_PG_TOOLTIP2'] = 'Kommandeur Bonus:';
 $lang['COMPONENTS_USERINFO_PG_TOOLTIP3'] = 'Mobilmachung Strafe:';
 $lang['COMPONENTS_USERINFO_PG'] = 'Bewölkerungswachstum';
 $lang['COMPONENTS_USERINFO_PG_DAY'] = ' / Tag';
-$lang['COMPONENTS_USERINFO_FLEET_POWER'] = 'Die gesamte Feuerkraft von Ihre Flotte. Ihre Flottemacht est ein Schuüssel Ihre Fienden zu vernichten.';
+
+const LANG_FLEET_POWER = 'flottenmacht';
+const LANG_FLEET_POWER_LONG ='Die gesamte Feuerkraft von Ihre Flotte. Ihre Flottemacht est ein Schuüssel Ihre Fienden zu vernichten.';
+
 $lang['COMPONENTS_USERINFO_MOBILIZED_TOOLTIP1'] = 'Ihre Mobilmachung Eben ist erhöht wann Sie war erfolgreich angegriffen werden.';
 $lang['COMPONENTS_USERINFO_MOBILIZED_TOOLTIP2'] = ' für jede ';
 $lang['COMPONENTS_USERINFO_MOBILIZED_TOOLTIP3'] = ' von Mobilmachung, Ihre Ein und Bewölkerungswachstum wurde bei 1% reduziertp><p>Mobilmachung macht Ihnen ein geringer einträglich Angriffsziel und ist über Zeit reduziert.';
